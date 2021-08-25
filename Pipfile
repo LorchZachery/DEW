@@ -4,12 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-SQLAlchemy = "*"
-sqlalchemy = "*"
-pymysql = "*"
-pg8000 = "*"
-flask = "*"
-marshmallow = "*"
 
 [dev-packages]
 
